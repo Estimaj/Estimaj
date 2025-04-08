@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Joao Estima!
 
-I'm a web software developer focused on building secure, scalable, and high-performing applications. I work primarily with **PHP**, **Laravel**, and **Vue**, and I'm currently diving deeper into **AWS** to improve my deployment and microservices skills.
+I'm a web software developer focused on building secure, scalable, and high-performing applications.
 
 ---
 
@@ -8,8 +8,6 @@ I'm a web software developer focused on building secure, scalable, and high-perf
 
 - 🧠 Team Manager | Leading and supporting a talented development team
 - 🛠️ Backend & Full-Stack Development with Laravel, Livewire, and Vue
-- 📦 ERP Integrations | Building reliable syncs for orders, invoices, and inventory
-- 🧪 Automated Testing | Creating shared, scalable E2E test frameworks
 - 🌐 Idea Projects | Constantly learning and building side-projects to explore new tech
 
 ---
@@ -24,18 +22,9 @@ I'm a web software developer focused on building secure, scalable, and high-perf
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced AWS (EC2, API Gateway, IAM, Lambda)
-- Microservices architecture
-- Scalable end-to-end testing systems
-
----
-
 ## 📬 Get in Touch
 
-- 📧 [Your email address here]
 - 🌍 [https://joaoestima.com](https://joaoestima.com)
-- 🐦 [Twitter or LinkedIn or any other social]
+- 🐦 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3oestima/)
 
 Thanks for stopping by! 😊
