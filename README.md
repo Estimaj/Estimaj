@@ -56,6 +56,6 @@ I'm a web software developer focused on building secure, scalable, and high-perf
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-Thanks for stopping by! 😊
+Thank you for stopping by! 😊
 
 [![](https://visitcount.itsvg.in/api?id=Estimaj&icon=0&color=0)](https://visitcount.itsvg.in)
